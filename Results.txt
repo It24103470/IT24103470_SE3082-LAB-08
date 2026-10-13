@@ -33,7 +33,7 @@ The execution time increased when more MPI processes were launched in this exper
 
 GitHub
 The Exercise 1 solution was committed and pushed to the GitHub repository:
-https://github.com/IT24200310/IT24200310_SE4060-MPI-Part1
+https://github.com/It24103470/IT24103470_SE3082-LAB-08.git
 The solution file is:
 HelloMPI_solution.c
 
@@ -93,7 +93,7 @@ The measured speedup increased from 1.000 with one process to approximately 4.65
 
 GitHub
 The Exercise 2 solution was committed and pushed to the GitHub repository:
-https://github.com/IT24200310/IT24200310_SE4060-MPI-Part1
+https://github.com/It24103470/IT24103470_SE3082-LAB-08.git
 The solution file is:
 exercise2.cpp
 
